@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 162c033b85a3a72353f07a9c85685f1d18b0ee1b Andres111203 <andres.canas@correounivalle.edu.co> 1718831784 -0500	commit (initial): agregando el readme
+162c033b85a3a72353f07a9c85685f1d18b0ee1b 558cdc888963158f99fb43a9c11e5425bc6d549a Andres111203 <andres.canas@correounivalle.edu.co> 1718831798 -0500	checkout: moving from master to Andres_Narvaez
+558cdc888963158f99fb43a9c11e5425bc6d549a b0a49c714e416e0f79cf402fc3d2be50aacb6a50 Andres111203 <andres.canas@correounivalle.edu.co> 1718831993 -0500	commit: se sube la clase producto, la cual tiene la implementacion con sus atributos, metodos setters y getters de la clase
