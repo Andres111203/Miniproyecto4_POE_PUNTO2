@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+ AlejandroGarz
+ HEAD
 
 Getting Started
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
@@ -27,3 +28,13 @@ Los integrantes del grupo son:
 Juan Esteban Franco López - 202259475
 Alejandro Garzón Mayorga - 2266088
 Andres Narváez - 2259545
+
+# Miniproyecto4_POE_PUNTO2
+In this repository there are the second point of Miniproject 4 of the subject event-oriented programming
+
+Integrantes 
+
+Juan Esteban Franco López - 202259475
+Alejandro Garzón Mayorga - 2266088
+Andres Narváez - 2259545
+ 
